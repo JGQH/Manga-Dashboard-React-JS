@@ -1,6 +1,14 @@
+import resources from './resources/resources.json';
+import Manga from './Manga'
+
 const App = () => {
+  const mangas = resources.data;
   return (
-    <p>Hello World!</p>
+    <>
+    {mangas.map((data, index) => {
+      return <Manga key={index} name={data.nombre} url={data.img}/>
+    })}
+    </>
   );
 }
 
