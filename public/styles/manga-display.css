@@ -1,0 +1,53 @@
+.manga-display {
+    padding: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.display-image {
+    padding: 20px;
+    background-color: #292929;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.display-image img {
+    width: 250px;
+}
+
+.display-info {
+    padding: 20px;
+}
+.display-info h1 {
+    cursor: pointer;
+}
+.display-info h3 {
+    color: rgba(0, 0, 0, 0.75);
+}
+
+.display-tags {
+    padding: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.display-tags div {
+    margin: 5px;
+    padding: 5px;
+
+    background-color: #4B4B4B;
+}
+
+@media only screen and (max-width: 640px){
+    .display-image {
+        flex-direction: column;
+    }
+}
