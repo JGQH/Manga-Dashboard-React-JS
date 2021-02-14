@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "nombre": "Dr. Stone",
+            "nombre-jp": "ドクターストーン",
+            "img": "001",
+            "sinopsis":"Senkuu y Taiju son dos amigos y estudiantes de preparatoria, el primero de ellos es un genio del club de química mientras que el otro es un grandullón musculoso e idiota. Después de 5 largos años, Taiju ha decidido declararle su amor a Yuzuriha, pero no todo siempre sale como nos gustaría... En la tierra ocurre un suceso que convierte a todo el mundo en piedra. ¿Cómo lograrán sobrevivir en este mundo post apocalíptico?",
+            "tags": ["act", "avnt", "apoc", "come", "superv", "ecchi", "mist"]
+        },
+        {
+            "nombre": "Kaguya Wants to be Confessed To",
+            "nombre-jp": "かぐや様は告らせたい",
+            "img": "002",
+            "sinopsis":"Kaguya Shinomiya y Miyuki Shirogane son miembros del consejo estudiantil de la increíblemente prestigiosa academia Shuchi'in, afirmando sus posiciones como genios entre los genios. Todo el tiempo que han pasado juntos ha ocasionado que empiecen a desarrollar sentimientos hacia el otro, sin embargo, ¡su orgullo no les permite confesarse y sumirse en una relación! El amor es una guerra, y su batalla para hacer que el otro se confiese, ¡empieza ahora!",
+            "tags": ["come", "psico", "roma", "school", "drama", "sol"]
+        },
+        {
+            "nombre": "How Not to Summon a Demon Lord",
+            "nombre-jp": "異世界魔王と召喚少女の奴隷魔術",
+            "img": "003",
+            "sinopsis":"En lo que respecta a los MMORPG Cross Reverie, Sakamoto Takuma contaba con una fuerza abrumadora que fue nombrado [Rey Demonio] por los otros jugadores. Un día, fue convocado a otro mundo con la apariencia que tenia en el juego. Allí, hay dos personas que insisten en ser 'Quien invocó al maestro.' Takuma es atacado con la Magia Slave-turning que sirve para invocar bestias que las chicas lanzaron sobre él. Sin embargo, la peculiar habilidad {magia reflejo} ¡ha sido invocado! ¡Los que resultaron ser esclavos fueron las chicas! Takuma estaba desconcertado. Él es el mago más fuerte, pero él no tiene ninguna capacidad de comunicación. Presa del pánico, ¡¿las primeras palabras que salieron fueron los que usó en el juego de rol The Demon King!? '¿Qué soy sorprendente, dices? Claro que lo soy. Soy el Diablo ...¡El temido rey demonio!'",
+            "tags": ["act", "avnt", "come", "ecchi", "roma", "harem", "reenc"]
+        },
+        {
+            "nombre": "So I'm a Spider, So What?",
+            "nombre-jp": "蜘蛛ですが、なにか？",
+            "img": "004",
+            "sinopsis":"El mundo donde el héroe y el rey demonio siguen oponiéndose entre si. La gran magia del héroe y el rey demonio cruzaron los mundos y exploto en el aula de una cierta escuela secundaria. Los estudiantes que murieron en la explosión fueron reencarnados en un mundo diferente. La protagonista que tiene la mas baja reputación en la clase fue reencarnada en una araña. Sin embargo, la protagonista rápidamente se adapta a la situación actual con una gran fuerza de voluntad. Esta es la historia de la protagonista que se ha convertido en una araña intentando todo lo posible para vivir.",
+            "tags": ["avnt", "come", "fant", "act", "reenc", "magic", "sbnt"]
+        },
+        {
+            "nombre": "The Helpful Fox Senko-san",
+            "nombre-jp": "世話やきキツネの仙狐さん",
+            "img": "005",
+            "sinopsis":"La vida cotidiana de Nanako, un hombre asalariado que trabaja en una compañía que lo explota, es repentinamente invadido por la Kitsune Senko-san (800 años de edad- esposa joven). Cualquier cosa, sea cocinar, limpiar o dar un servicio especial (? ...ella curará su cansancio con su adorable cuidado.",
+            "tags": ["come", "drama", "fant", "roma", "sol", "sbnt"]
+        },
+        {
+            "nombre": "The Quintessential Quintuplets",
+            "nombre-jp": "五等分の花嫁",
+            "img": "006",
+            "sinopsis":"Uesugi Fuutarou es un brillante estudiante sumido en la pobreza a causa de la deuda su padre, tendrá que convertirse en tutor privado para una familia rica, pero hay un detalle que él no conoce.",
+            "tags": ["come", "harem", "roma", "school", "sol", "drama", "realidad"]
+        },
+        {
+            "nombre": "We Can't Study!",
+            "nombre-jp": "ぼくたちは勉強ができない",
+            "img": "007",
+            "sinopsis":"El manga se centra en Yuiga Nariyuki, un estudiante de clase social pobre que nació con la inteligencia de una persona ordinaria, sin destacar en nada. Se esfuerza al máximo por ser el mejor de la clase y obtener una beca en la universidad, donde aspira graduarse y darle a su familia una mejor vida. Por cosas del destino se ve envuelto en una situación de la que no puede escapar si quiere obtener su beca universitaria: Ser el tutor de... ¡¿Unas genio?!",
+            "tags": ["come", "roma", "school", "harem", "drama", "sol"]
+        },
+        {
+            "nombre": "Miss Kobayashi's Dragon Maid",
+            "nombre-jp": "小林さんちのメイドラゴン",
+            "img": "008",
+            "sinopsis":"Kobayashi vive en un apartamento cuando un dia un dragon llamado Tooru toca a su puerta. Tooru piensa que los humanos son humildes y tontos pero ella tiene una deuda con Kobayashi que la salvo en el pasado. Por eso todos los dias Tooru trata de usar sus poderes para ayudar a Kobayashi en varias cosas. Una comedia de una señora de oficina y una linda chica maid dragon viviendo juntas el día a día",
+            "tags": ["come", "sol", "fant", "gllv"]
+        },
+        {
+            "nombre": "Welcome to Demon School! Iruma-kun",
+            "nombre-jp": "魔入りました！入間くん",
+            "img": "009",
+            "sinopsis":"Esta es la historia de Suzuki Iruma, que ha sido vendido a un demonio por sus padres irresponsables a cambio de dinero. Sorprendentemente, lo siguiente que sabe es que vive con el demonio y que ha sido transferido a una escuela del Mundo Demoníaco. Te invitamos a seguir la extraordinaria vida escolar de Iruma-kun.",
+            "tags": ["come", "fant", "school", "sbnt", "dmns"]
+        },
+        {
+            "nombre": "One-Punch Man",
+            "nombre-jp": "ワンパンマン",
+            "img": "010",
+            "sinopsis":"¡Sigue la vida de un héroe promedio que gana todas sus peleas con un solo puño! Esto le causa un montón de frustración, ahora ya no siente la adrenalina y la emoción de una dura pelea. Tal vez ese riguroso entrenamiento para volverse fuerte no valió la pena. Después de todo, ¿qué tiene de bueno tener un poder tan aplastante?",
+            "tags": ["act", "come", "sbnt", "scfi", "sppw"]
+        },
+        {
+            "nombre": "Redo of the Healer",
+            "nombre-jp": "回復術士のやり直し",
+            "img": "011",
+            "sinopsis":"Yo había determinado que los magos sanadores sólo son capaces de sanar. Yo había admitido que son una existencia que no puede hacer nada por sí mismos. No pueden luchar si no confían en alguien, y porque son ese tipo de existencia, son explotados por otros. Siendo explotado repetidamente, he llegado a este punto, y para cuando me di cuenta de mi error, era demasiado tarde. Mi vida había terminado. Por eso voy a empezar de nuevo. Así, utilizando la magia curativa en el mundo mismo para retroceder cuatro años, decidí rehacer todo.",
+            "tags": ["avnt", "harem", "gore", "ecchi", "reenc", "act", "trag"]
+        }
+    ]
+}
