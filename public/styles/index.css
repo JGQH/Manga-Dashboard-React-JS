@@ -1,0 +1,22 @@
+body {
+    min-height: 100vh;
+    background-color: #292929;
+    color: #E7DFD4;
+
+    display: flex;
+    flex-direction: column;
+}
+
+#header {
+    padding: 10px;
+    
+    flex-grow: 0;
+    flex-shrink: 1;
+}
+
+#dashboard {
+    flex-grow: 1;
+    flex-shrink: 0;
+
+    background-color: rgba(0, 0, 0, 0.5);
+}
